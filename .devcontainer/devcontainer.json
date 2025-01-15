@@ -20,7 +20,18 @@
 			"extensions": [
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
-				"wayou.vscode-todo-highlight"
+				"wayou.vscode-todo-highlight",
+				"formulahendry.code-runner",
+				"ms-vscode.cpptools-themes",
+				"twxs.cmake",
+				"ms-vscode.cmake-tools",
+				"vadimcn.vscode-lldb",
+				"rodrigovallades.es7-react-js-snippets",
+				"dsznajder.es7-react-js-snippets",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"ms-vscode.live-server",
+				"ritwickdey.LiveServer"
 			],
 			"settings": {
 				"editor.fontSize": 16,
